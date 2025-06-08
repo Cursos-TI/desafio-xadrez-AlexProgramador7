@@ -1,6 +1,8 @@
 #include <stdio.h>
 
+
 int main() {
+    
     
     // Simulação do movimento da TORRE.
     // A Torre se move em linha reta. Vamos simular 5 casas para a direita.
